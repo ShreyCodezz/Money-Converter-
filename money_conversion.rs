@@ -1,6 +1,10 @@
 use std::io;
 
-pub fn money_convert() {
+fn main(){
+    money_convert();
+}
+
+fn money_convert() {
     println!("###############");
     println!("Money Conversion");
     println!("###############");
